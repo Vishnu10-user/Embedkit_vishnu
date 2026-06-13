@@ -1,1 +1,1 @@
-# Embedkit_vishnu
+This project implements a fixed-size circular buffer (Ring Buffer) for uint8_t data with a capacity of 8 bytes. The implementation supports initialization, write, read, count, full-check, and empty-check operations. It demonstrates buffer wrap-around and proper handling of buffer full and buffer empty conditions without overwriting unread data.
